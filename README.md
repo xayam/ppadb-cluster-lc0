@@ -1,2 +1,2 @@
 # ppadb-cluster
-Python Android cluster
+Python Android cluster for lc0 testing
